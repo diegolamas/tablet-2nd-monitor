@@ -1,6 +1,8 @@
 # tablet-2nd-monitor
 
-## HOW-TO:
+*How to use a tablet as a second display using VNC*
+
+## how-to:
         
 1. `pip install dotmap`  
 2. `sudo apt install x11vnc`
